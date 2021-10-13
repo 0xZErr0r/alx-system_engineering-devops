@@ -1,7 +1,7 @@
 ## Preamble
 
 ```
-SPP: ****
+SPP: 0000
 Title: <SPP title>
 Author: <list of authors' names, GitHub handles, and optionally, email addresses, separated by commas>
 Status: Draft
