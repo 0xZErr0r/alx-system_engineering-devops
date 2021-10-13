@@ -6,6 +6,7 @@ Title: <SPP title>
 Author: <list of authors' names, GitHub handles, and optionally, email addresses, separated by commas>
 Status: Draft
 Created: <date created on yyyy-mm-dd format>
+Updated: <date updated on yyyy-mm-dd format>
 Discussion: <link to where discussion for this SPP is taking place, typically the mailing list>
 ```
 
