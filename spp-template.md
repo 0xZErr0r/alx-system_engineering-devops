@@ -14,10 +14,6 @@ Discussion: <link to where discussion for this SPP is taking place, typically th
 "If you can't explain it simply, you don't understand it well enough." Provide a simplified and
 layman-accessible explanation of the SPP.
 
-## Dependencies
-Should clearly list the dependencies this SPP has on other SPPs. May go into further
-discussion about the circumstances of the dependency, although a list is sufficient.
-
 ## Specification
 The technical specification should describe the syntax and semantics of any new feature.
 
