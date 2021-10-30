@@ -18,22 +18,8 @@ layman-accessible explanation of the SPP.
 Should clearly list the dependencies this SPP has on other SPPs. May go into further
 discussion about the circumstances of the dependency, although a list is sufficient.
 
-## Motivation
-Should clearly explain why the existing protocol specification is inadequate to address the problem
-that the SPP solves. SPP submissions without sufficient motivation may be rejected outright.
-
-## Abstract
-A short (~200 word) description of the technical issue being addressed.
-
 ## Specification
 The technical specification should describe the syntax and semantics of any new feature.
-
-## Design Rationale
-The rationale fleshes out the specification by describing what motivated this particular design and
-why certain design decisions were made. It should describe alternate designs that were
-considered and related work, e.g. how the feature is supported in other protocols. The rationale
-may also provide evidence of consensus within the community, and should discuss important
-objections or concerns raised during discussion.
 
 ## Security Concerns
 All SPPs should carefully consider areas where security may be a concern, and document them
