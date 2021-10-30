@@ -10,7 +10,7 @@ Updated: <date updated on yyyy-mm-dd format>
 Discussion: <link to where discussion for this SPP is taking place, typically the mailing list>
 ```
 
-## Simple Summary
+## Summary
 "If you can't explain it simply, you don't understand it well enough." Provide a simplified and
 layman-accessible explanation of the SPP.
 
