@@ -20,3 +20,9 @@ The technical specification should describe the syntax and semantics of any new 
 ## Security Concerns
 All SPPs should carefully consider areas where security may be a concern, and document them
 accordingly. If a change does not have security implications, write "N/A".
+
+**Security Concern 1:** <br />
+...
+
+**Security Concern 2:** <br />
+...
