@@ -48,5 +48,3 @@ chown --from=guillaume betty hello = Write a script that changes the owner of th
 The file hello will be in the working directory
 
 telnet towel.blinkenlights.nl = Write a script that will play the StarWars IV episode in the terminal.
-
- = Create a man that looks exactly like this one and passes all checks.
