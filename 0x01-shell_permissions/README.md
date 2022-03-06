@@ -1,20 +1,20 @@
 ## 0x01. Shell, permissions
 
-  = Create a script that changes your user ID to betty. You should use exactly 8 characters for your command (+1 character for the new line). You can assume that the user betty will exist when we will run your script
+su = Create a script that changes your user ID to betty. You should use exactly 8 characters for your command (+1 character for the new line). You can assume that the user betty will exist when we will run your script
 
- = Write a script that prints the effective userid of the current user.
+whoami = Write a script that prints the effective userid of the current user.
 
- = Write a script that creates an empty file called hello.
+groups = Write a script that prints all the groups the current user is part of.
 
- = Write a script that prints all the groups the current user is part of.
+chown = Write a script that changes the owner of the file hello to the user betty.
 
- = Write a script that changes the owner of the file hello to the user betty.
+touch = Write a script that creates an empty file called hello.
 
- = Write a script that adds execute permission to the owner of the file hello. The file hello will be in the working directory
+chmod u+x = Write a script that adds execute permission to the owner of the file hello. The file hello will be in the working directory
 
- = Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello. The file hello will be in the working directory.
+chmod u+x,g+x,o+r = Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello. The file hello will be in the working directory.
 
- = Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello. The file hello will be in the working directory,  You are not allowed to use commas for this script
+chmod ugo+x = Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello. The file hello will be in the working directory,  You are not allowed to use commas for this script
 
  = Write a script that sets the permission to the file hello as follows:
 Owner: no permission at all
